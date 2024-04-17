@@ -4,4 +4,5 @@ streamlit
 pycaret==3.0.2
 Pillow
 xgboost
-scikit-plot scipy
+scikit-plot 
+scipy
