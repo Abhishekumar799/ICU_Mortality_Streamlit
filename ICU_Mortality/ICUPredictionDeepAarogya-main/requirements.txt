@@ -1,8 +1,9 @@
 pandas
 numpy
 streamlit
-pycaret==3.0.2
+pycaret
 Pillow
 xgboost
 scikit-plot 
-scipy
+scikit-learn
+
