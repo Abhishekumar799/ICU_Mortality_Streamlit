@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(layout="wide")
 from PIL import Image
 
-model = load_model('Data/ICU_prediction_finetune_naive_bayes23')
+model = load_model('ICU_Mortality/ICUPredictionDeepAarogya-main/Data/ICU_prediction_finetune_naive_bayes23')
 
 cat_map = {
     "No": 0,
